@@ -4,7 +4,7 @@ public class PrintDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("This is a Jenkins Print Demo 1");
+System.out.println("This is a Jenkins Print Demo  2");
 	}
 
 }
